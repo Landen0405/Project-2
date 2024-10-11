@@ -1,0 +1,27 @@
+.setright{
+    float: right;
+}
+section{
+    background-image: linear-gradient(white, lightblue, red)
+}
+a{
+    font-size: x-large;
+    font-family: fantasy;
+}
+.smalltext{
+    font-size: 10px;
+}
+.fancy{
+    font-size: 50px;
+    font-family: fantasy;
+    
+}
+.cinema{
+    background-color: red;
+}
+.favImg{
+    width: 169px;
+}
+.favGame{
+    width:290px
+}
